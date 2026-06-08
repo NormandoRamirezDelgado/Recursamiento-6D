@@ -3,8 +3,11 @@
 // Ejemplo:
 // numero = 0;
 // print(5 * numero);
+// print(5 + numero);
+// print(5 - numero);
+// print(5 / numero);
 // numero = numero + 1
-// print(5 * numero);
+// print(5 * numero); ...
 
 void main(List<String> args) {
   
